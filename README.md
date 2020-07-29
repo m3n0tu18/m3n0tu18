@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo 👋
 
 <!--
 **m3n0tu18/m3n0tu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hey, I am Marcus, a WordPress Web Developer.
