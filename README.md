@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Works with VueJS, NUXT3, React, WordPress, WooCommerce**
 
-- 📫 How to reach me **itsame@mitico.org**
-
 - 📄 Know about my experiences [TBA](TBA)
 
 <h3 align="left">Connect with me:</h3>
