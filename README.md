@@ -2,13 +2,11 @@
 <h3 align="center">A Full-Stack developer with the love for everything web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3n0tu18&label=Profile%20views&color=0e75b6&style=flat" alt="m3n0tu18" /> </p>
-- 🔭 I’m currently working on **An ERP System**
+- 🔭 I’m currently working on **An ERP System** in Laravel
 
-- 🌱 I’m currently learning **NUXT3 and it's integrations**
+- 🌱 I work on WordPress themes, customisations and integrations.
 
-- 💬 Ask me about **Works with VueJS, NUXT3, React, WordPress, WooCommerce**
-
-- 📄 Know about my experiences [TBA](TBA)
+- 💬 Ask me about **Works with Laravel 11, WordPress, WooCommerce**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
